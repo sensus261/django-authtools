@@ -1,6 +1,8 @@
 django-authtools
 ================
 
+``This forked version contains updates to support Django 3.0+``
+
 A custom user model app for Django 3.0+ that features email as username and
 other things. It tries to stay true to the built-in user model for the most
 part.

@@ -27,7 +27,7 @@ User models
 
     .. code-block:: bash
 
-        $ pip install django-authtools
+        $ pip install https://github.com/sensus261/django-authtools/archive/refs/tags/2.0.tar.gz
 
 2.  Add ``authtools`` to your ``INSTALLED_APPS``.
 
